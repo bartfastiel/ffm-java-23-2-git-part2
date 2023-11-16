@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Timeline advanced");
         System.out.println("Timeline super");
 
+        System.out.println("Please enter password: ________");
+
         System.out.println("Hello world!");
     }
 }
