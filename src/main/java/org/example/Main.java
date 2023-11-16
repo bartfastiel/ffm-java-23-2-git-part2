@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Please enter username: ________");
         System.out.println("Please enter password: ________");
 
-        System.out.println("Hello world!");
+        System.out.println("Hello blue planet!");
     }
 }
