@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Please enter password: ________");
 
         System.out.println("Hello blue planet!");
+        System.out.println("Hello green planet!");
     }
 }
